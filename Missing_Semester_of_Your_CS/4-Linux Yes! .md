@@ -124,7 +124,7 @@ wsl2一种非常适合window的虚拟机方案 [wsl2介绍](https://zhuanlan.zhi
 ## 1：完成菜鸟教程:
 从[linux简介](https://www.runoob.com/linux/linux-intro.html)  到  [linux vi/vim](https://www.runoob.com/linux/linux-vim.html),所有的例子请在虚拟机终端中尝试一遍，观察文件结构，执行相关命令操作
 > 如果一个命令的写法总是忘记，学会使用man xxx 或 xxx --help ，不要忘记 ***1-提问的智慧*** 中讲到的 RTFM！
-## 2:完成[一个简单的linux练习](\Reference\Linux A.pdf)
+## 2:完成[一个简单的linux练习](./Reference/Linux A.pdf)
 不需要记笔记，动手敲过就可以了。
 
 ## 3：速览[linux命令为什么要这么写？](https://www.runoob.com/w3cnote/linux-command-full-fight.html)
